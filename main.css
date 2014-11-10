@@ -1,0 +1,20 @@
+body{
+  width:100vw;
+  height:100vh;
+  padding:0;
+  margin:0;
+  background-image: url('bs.jpg');
+  background-size: cover;
+}
+
+#hello
+{
+  font-size: 12vw;
+  text-align: center;
+  color:#A52A2A;
+  position: absolute;
+  width:100vw;
+  top:50%;
+  transform:translateY(-50%);
+  font-family: 'Dancing Script', cursive;
+}
